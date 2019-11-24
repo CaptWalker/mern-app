@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://captwalker:root123@mern-app-cluster-3kz5f.azure.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
+}
