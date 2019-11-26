@@ -1,4 +1,6 @@
 {
     "mongoURI" : "mongodb+srv://captwalker:root123@mern-app-cluster-3kz5f.azure.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret":"mysecrettoken"
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"08bc9146994079209a09",
+    "githubSecret":"5a77d37d49aaacd8e6272d78b9b1e15b13561084"
 }
