@@ -11,7 +11,7 @@ const PostSchema = new Schema({
         required:true
     },
     name:{
-        type:string
+        type:String
     },
     avatar:{
         type: String
@@ -35,7 +35,7 @@ const PostSchema = new Schema({
                 required: true
             },
             name:{
-                type:string
+                type:String
             },
             avatar:{
                 type: String
